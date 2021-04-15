@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OlanderIA", "OlanderIA\OlanderIA.csproj", "{EE8940D6-7AED-448D-A4D8-F27081D52DF4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test Folder", "Test Folder", "{5166DFBC-DEB6-45A1-B676-C44651916A3D}"
+	ProjectSection(SolutionItems) = preProject
+		Simulator.cs = Simulator.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE8940D6-7AED-448D-A4D8-F27081D52DF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE8940D6-7AED-448D-A4D8-F27081D52DF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE8940D6-7AED-448D-A4D8-F27081D52DF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE8940D6-7AED-448D-A4D8-F27081D52DF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E941D09D-444B-413D-B038-D83037F71724}
+	EndGlobalSection
+EndGlobal
